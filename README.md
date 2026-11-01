@@ -5,3 +5,5 @@ A short slide deck that introduces BookUp IQ, the clinic operating layer that tu
 Open `index.html` in a browser, or view the published version on GitHub Pages. Use the arrow keys, space, the on-screen buttons, a click or a swipe to move between slides. Add `#n` to the URL to open slide n.
 
 The screenshots and recordings in `assets/` come from the BookUp IQ prototype and contain only fictional demo data.
+
+The two recordings are in `assets/` as GIFs (`05-book-from-inbox.gif`, `06-whatsapp-lead.gif`), shown on their slides, and as smaller MP4 copies; each slide links to both for download.
